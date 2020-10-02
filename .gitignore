@@ -1,0 +1,4 @@
+node_modules
+public/sessions/*.json
+public/main.js*
+node_modules
